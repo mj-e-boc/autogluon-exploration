@@ -102,4 +102,4 @@ Used as a powerful starting point — not a final answer — AutoGluon is one of
 
 ---
 
-*Code and notebook available at: https://github.com/mj-e-boc/autogluon-exploration)*
+*Code and notebook available at: https://github.com/mj-e-boc/autogluon-exploration
