@@ -37,5 +37,4 @@ jupyter notebook notebooks/autogluon_heart_disease.ipynb
 
 ## Author
 
-**YOUR_USERNAME** — Individual Assignment  
-Course: YOUR_COURSE_NAME | May 2026
+Ronald Mjonono, 473522
