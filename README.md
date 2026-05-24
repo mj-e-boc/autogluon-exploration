@@ -1,4 +1,3 @@
----
 
 ## Dataset
 
@@ -7,7 +6,7 @@
 - Binary target: presence of heart disease (0 = no, 1 = yes)
 - Source: [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/heart+disease)
 
----
+
 
 ## Setup
 
